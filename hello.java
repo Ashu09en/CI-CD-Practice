@@ -5,5 +5,6 @@ public class hello{
         System.out.println("Hello I am Java Code");
         System.out.println("Pulled by Jenkins");
         System.out.println(new Date());
+        System.out.println("Automatic build from Jenkins");
     }
 }
